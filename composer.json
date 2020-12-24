@@ -1,0 +1,11 @@
+{
+  "require": {
+    "imangazaliev/didom": "^1.14",
+    "guzzlehttp/guzzle": "~6.0",
+    "longman/telegram-bot": "*",
+    "facebook/webdriver": "^1.7",
+    "react/http": "0.8.4",
+    "php-amqplib/php-amqplib": "^2.10",
+    "ext-json": "*"
+  }
+}
